@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_library"
+            android:icon="@drawable/ic_library_music_black_24dp"
+            android:title="Music Library" />
+        <item
+            android:id="@+id/connectivity"
+            android:icon="@drawable/ic_swap_horiz_black_24dp"
+            android:title="Connectivity"/>
+
+    </group>
+
+    <item android:title="Options">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="About" />
+            <item
+                android:id="@+id/nav_settings"
+
+                android:title="" />
+
+        </menu>
+    </item>
+
+</menu>

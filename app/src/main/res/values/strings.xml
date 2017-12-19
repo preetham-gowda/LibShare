@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LibShare</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="albumArt_description">Default album art</string>
+    <string name="track_artist">Unknown Artist</string>
+    <string name="track_title">Song Title</string>
+    <string name="track_album">Unknown Album</string>
+    <string name="alert_permissions_message">You have not granted storage read permission
+    to Wifi Music Player! This permission is required for Wifi Music Player to access songs on your device.
+    If you would like to grant permission to the app, click Okay. To exit, click Cancel.</string>
+    <string name="album_art_description">placeHolder for no album art</string>
+
+    <!-- TODO: placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel_selection">Cancel Selection</string>
+    <string name="add_to_queue_and_play">Add to queue and play</string>
+
+    <string name="by">Developed By: Preetham and Abhishek</string>
+    <string name="app_dialogue"> LibShare is a music playing app that allows you and your friends to create a temporary Wireless group using wifi direct, to connect to each other and share each other\'s music libraries.</string>
+</resources>
